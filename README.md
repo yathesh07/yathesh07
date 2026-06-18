@@ -19,7 +19,7 @@ GitHub Profile README for yathesh07
 
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Yathesh:
@@ -32,13 +32,20 @@ class Yathesh:
         self.cgpa = 8.84
 
         self.stack = [
-            "Python","JavaScript","C++",
-            "React","Node.js","Express",
-            "MongoDB","Firebase",
-            "AI","IoT","Automation"
+            "Python",
+            "JavaScript",
+            "C++",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Firebase",
+            "AI",
+            "IoT",
+            "Automation"
         ]
 
-        self.currentlyLearning = [
+        self.currently_learning = [
             "Agentic AI",
             "RAG",
             "MCP",
@@ -47,7 +54,10 @@ class Yathesh:
         ]
 
     def motto(self):
-        return "Think • Build • Innovate"
+        return "Think • Build • Innovate 🚀"
+
+me = Yathesh()
+print(me.motto())
 ```
 
 ### 🌐 Connect
@@ -55,6 +65,7 @@ class Yathesh:
 - 📧 yatheshv2007@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/yathesh-vijayarajan-78a585392
 - 🌍 GitHub: https://github.com/yathesh07
+- 📞 Mobile: 8903830233
 
 ---
 
