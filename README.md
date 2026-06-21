@@ -10,7 +10,7 @@ GitHub Profile README for yathesh07
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Building+the+Future+with+AI+%F0%9F%A4%96;Creating+Intelligent+Automation+%E2%9A%A1;Developing+Autonomous+Systems+%F0%9F%9A%97;Turning+Ideas+into+Reality+%F0%9F%9A%80"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Yathesh V</h1>
+<h1 align="center">Hi 👋, I'm Yathesh </h1>
 <h3 align="center">AI Engineer • IoT Developer • Full Stack Developer • AI Automation Engineer</h3>
 
 <p align="center">
